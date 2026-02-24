@@ -1,0 +1,18 @@
+{
+  "feedVersion": 1,
+  "locations": [
+    { "id": "7c6ea129-d82a-44ae-8647-0c4ef85af3bf", "name": "Administration",  "latitude": 40.1446, "longitude": -75.3581, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "81415273-0c4c-41ac-96ac-b996dd5460d5", "name": "Blockson",        "latitude": 40.1268, "longitude": -75.3583, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "9a857e7d-57ff-48ba-8728-cba327f06945", "name": "Cole Manor",      "latitude": 40.1364, "longitude": -75.3243, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "047deca4-eb29-4855-9ed0-627e272c3e4b", "name": "Davenport",       "latitude": 40.1191, "longitude": -75.3413, "radius": 75, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "1f4fcb6c-59a1-461f-b0ec-3ba856418bfe", "name": "East Norriton",   "latitude": 40.1537, "longitude": -75.3207, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "d0b01ffa-6f85-4d57-b81d-1cee22681622", "name": "Eisenhower",      "latitude": 40.1307, "longitude": -75.3367, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "48c23360-6704-468b-be01-5b83fcac240f", "name": "Hancock",         "latitude": 40.1225, "longitude": -75.3286, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "771402fc-386c-45a9-8130-b06c96d7665d", "name": "Marshall St",     "latitude": 40.1284, "longitude": -75.3626, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "809dda99-a68a-4b6a-8bb1-33733fe18b06", "name": "Musselmann",      "latitude": 40.1134, "longitude": -75.3232, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "52df5379-3e7f-47f3-a4d7-29638701c7bc", "name": "NAHS",            "latitude": 40.1470, "longitude": -75.3622, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "555b5270-d209-48c0-a965-7e4a15b5e3c0", "name": "Paul Fly",        "latitude": 40.1577, "longitude": -75.3598, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "35063722-bd31-41cf-96b3-08304230579f", "name": "Roosevelt",       "latitude": 40.1246, "longitude": -75.3415, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "a3ea5c04-e6d1-4411-b46c-734907676f17", "name": "Whitehall",       "latitude": 40.1441, "longitude": -75.3603, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" }
+  ]
+}
