@@ -1,0 +1,2535 @@
+{
+  "feedVersion": 1,
+  "locations": [
+    {
+      "id": "a1efeb6c-ac05-4771-95d7-9ba108b4d038",
+      "name": "(TEMPORARY) THOMAS HOLME SCHOOL",
+      "latitude": 40.0458371978444,
+      "longitude": -75.0441782507204,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2f32e31e-cd43-4b93-bb93-def05895c937",
+      "name": "A. PHILIP RANDOLPH CAREER AND TECHNICAL HIGH SCHOOL",
+      "latitude": 40.0088544929054,
+      "longitude": -75.1793048893351,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7ac50873-7304-45da-823d-3835ed972fde",
+      "name": "A.L. FITZPATRICK SCHOOL",
+      "latitude": 40.0803060002588,
+      "longitude": -74.9765290003166,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "dbf97108-99bf-4419-9de1-0b4f1b8fb38b",
+      "name": "ABRAHAM LINCOLN HIGH SCHOOL",
+      "latitude": 40.0440889970966,
+      "longitude": -75.0425259084579,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e1499ad8-650d-4edb-b98f-81b1f2ba8fac",
+      "name": "ABRAM S. JENKS SCHOOL",
+      "latitude": 39.918896183836,
+      "longitude": -75.1684423956487,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "bb0f6290-caef-42dc-aefd-a3aadb20002d",
+      "name": "ACADEMY AT PALUMBO",
+      "latitude": 39.9400238507418,
+      "longitude": -75.1617266706616,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7e3186d5-fdd0-441b-861b-250ea8fd7de4",
+      "name": "ACADEMY FOR THE MIDDLE YEARS AT NORTHWEST",
+      "latitude": 40.0310606321734,
+      "longitude": -75.2127867392872,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "1b49e156-62d5-4729-8275-6ad330866876",
+      "name": "ACHIEVE ACADEMY",
+      "latitude": 39.9781339996112,
+      "longitude": -75.1776579994501,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "abad7a26-07d2-4a6f-ba3b-bc6bb7e7a6c7",
+      "name": "ACHIEVE ACADEMY EAST",
+      "latitude": 40.0152398523788,
+      "longitude": -75.126608154384,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "96e3a016-67e3-4816-9d79-9fb723def0e9",
+      "name": "ADD B. ANDERSON SCHOOL",
+      "latitude": 39.946726000326,
+      "longitude": -75.2457169998686,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "0ac95e61-5329-403f-b63c-5140c115df73",
+      "name": "ALAIN LOCKE SCHOOL",
+      "latitude": 39.9621847968885,
+      "longitude": -75.2124358341207,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "57dc9615-fa56-4ba0-9e3d-938a51d115be",
+      "name": "ALBERT M. GREENFIELD SCHOOL",
+      "latitude": 39.9522723404091,
+      "longitude": -75.1773920597576,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9b196eba-a551-49da-90dd-13dc81cb636f",
+      "name": "ALEXANDER ADAIRE SCHOOL",
+      "latitude": 39.9724860332449,
+      "longitude": -75.1302790687679,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "6c1f0dab-47bb-47d7-8b89-44be63427365",
+      "name": "ALEXANDER K. MCCLURE SCHOOL",
+      "latitude": 40.0151779995059,
+      "longitude": -75.1375739994297,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "3b2bc21e-29a1-4075-b7d9-633dbad46e2f",
+      "name": "ALLEN M. STEARNE SCHOOL",
+      "latitude": 40.0117520000347,
+      "longitude": -75.0851120000085,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "5e12649d-194b-4ee0-a46f-8393e415bb40",
+      "name": "ALTERNATIVE MIDDLE YEARS AT JAMES MARTIN",
+      "latitude": 39.9727583241561,
+      "longitude": -75.1276347113583,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e65f60b8-eecb-46f8-9652-4e6d726a4653",
+      "name": "ANDREW HAMILTON SCHOOL",
+      "latitude": 39.9554380004194,
+      "longitude": -75.2355430002609,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "418d761b-78c0-4168-a841-0029a0896ead",
+      "name": "ANDREW J. MORRISON SCHOOL",
+      "latitude": 40.0295009877637,
+      "longitude": -75.1295056341895,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "035374f9-1637-435f-a42f-cb3b5815a20f",
+      "name": "ANNA B. DAY SCHOOL",
+      "latitude": 40.0586302070348,
+      "longitude": -75.1680865626186,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d25fc8a4-dab6-48a5-8100-4ce035fcb7f3",
+      "name": "ANNA L. LINGELBACH SCHOOL",
+      "latitude": 40.0373014689248,
+      "longitude": -75.1897046083757,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "6e35f45e-d93a-420f-8de8-22152d40bdaf",
+      "name": "ANNE FRANK SCHOOL",
+      "latitude": 40.0882879999167,
+      "longitude": -75.0282220001821,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "5c20f8f4-73d3-4add-999b-4d31e68eb750",
+      "name": "ARTS ACADEMY AT BENJAMIN RUSH",
+      "latitude": 40.0826490029494,
+      "longitude": -74.9740810656763,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "8f196cab-3407-4761-b3c9-84e4b580d615",
+      "name": "AVERY D. HARRINGTON SCHOOL",
+      "latitude": 39.9473651699919,
+      "longitude": -75.2305950800223,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "51794c4b-55d3-4f81-a670-ea42e73b7efa",
+      "name": "BACHE-MARTIN SCHOOL",
+      "latitude": 39.9700252874485,
+      "longitude": -75.1740771312509,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "8f8c9a1d-97ee-43d7-a567-433806c13ea6",
+      "name": "BALDI SCHOOL",
+      "latitude": 40.0920060281079,
+      "longitude": -75.0526308449662,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c6b39103-c1fb-4861-9313-2589e2ee11bf",
+      "name": "BAYARD TAYLOR SCHOOL",
+      "latitude": 40.0070708869227,
+      "longitude": -75.1381404267349,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "71b7592d-760f-4c7a-bfd0-35aea3cd9f00",
+      "name": "BEN FRANKLIN HIGH SCHOOL EOP",
+      "latitude": 39.9634007190651,
+      "longitude": -75.1616083349064,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "65d83f15-5e5b-4ab2-9965-9439c023599c",
+      "name": "BENJAMIN B. COMEGYS SCHOOL",
+      "latitude": 39.9405200004362,
+      "longitude": -75.2162889996761,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d7dd70c7-0267-403b-841f-fe4ceace04d3",
+      "name": "BENJAMIN FRANKLIN HIGH SCHOOL",
+      "latitude": 39.9635299998603,
+      "longitude": -75.1616399993992,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "db566500-5e98-4419-b104-1b93306e98a0",
+      "name": "BENJAMIN FRANKLIN SCHOOL",
+      "latitude": 40.0424482429562,
+      "longitude": -75.1042930779703,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "6c5985fd-6b10-4aeb-ad84-d48f7ee053e9",
+      "name": "BRIDESBURG SCHOOL",
+      "latitude": 40.0002731480946,
+      "longitude": -75.06666516407,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b68814e5-0362-4210-af0a-16b846ddab2c",
+      "name": "BUILDING 21",
+      "latitude": 40.0536310003,
+      "longitude": -75.1524810003661,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c4a6680d-a9c6-40e9-8051-58e9c7ec981e",
+      "name": "CARVER HIGH SCHOOL OF ENGINEERING AND SCIENCE",
+      "latitude": 39.9834180895182,
+      "longitude": -75.1612778907416,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "a7515f8a-957c-4e05-83a9-0b594a8918bc",
+      "name": "CASTOR GARDENS MIDDLE SCHOOL",
+      "latitude": 40.052367000051,
+      "longitude": -75.0690859994939,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7eb19470-1e65-4869-80e9-ced068d51478",
+      "name": "CAYUGA SCHOOL",
+      "latitude": 40.0178140494342,
+      "longitude": -75.1350576975422,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4fb25ec3-d807-4fbc-8b17-84e31051092a",
+      "name": "CENTRAL HIGH SCHOOL",
+      "latitude": 40.0373293977995,
+      "longitude": -75.1501075298294,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "49c68df9-1c55-428a-be4a-456451dcbd24",
+      "name": "CHARLES W. HENRY SCHOOL",
+      "latitude": 40.0462577099047,
+      "longitude": -75.1965877592889,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "591709e1-7c49-4d7e-883e-a546035f55c6",
+      "name": "CLARA BARTON SCHOOL",
+      "latitude": 40.020373609694,
+      "longitude": -75.1195495940986,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "a842d36b-4ed3-40f3-8c48-1f931876bcf6",
+      "name": "CONSTITUTION HIGH SCHOOL",
+      "latitude": 39.9502520000276,
+      "longitude": -75.1523359999574,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "1a61f85a-e841-4e44-85e8-9f6173716b8a",
+      "name": "COOK-WISSAHICKON SCHOOL",
+      "latitude": 40.0224720000888,
+      "longitude": -75.2068019997144,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b7b29805-d8e6-4e85-9b3e-7a4aa33d622b",
+      "name": "CROSSROADS ACCELERATED ACADEMY",
+      "latitude": 39.9694040511869,
+      "longitude": -75.2105231404679,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c025a582-c634-497f-921f-728f8a0e7321",
+      "name": "CROSSROADS AT HUNTING PARK",
+      "latitude": 40.0152262848014,
+      "longitude": -75.1261833978555,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7ab20208-123d-4064-b833-e0e0f28d55d7",
+      "name": "D. NEWLIN FELL SCHOOL",
+      "latitude": 39.9154511155284,
+      "longitude": -75.1631073586769,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "213138be-5f4b-4d70-84c8-8fac9d522df5",
+      "name": "DELAPLAINE MCDANIEL SCHOOL",
+      "latitude": 39.9295920005011,
+      "longitude": -75.18179300014,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "726b4b66-d683-4796-8a71-c9da06d2da06",
+      "name": "DR. ETHEL ALLEN SCHOOL",
+      "latitude": 39.997182351098,
+      "longitude": -75.183604961272,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "6f251f70-0e29-42fb-a620-a8d95720ad6d",
+      "name": "E. WASHINGTON RHODES SCHOOL",
+      "latitude": 40.0027559402936,
+      "longitude": -75.1781297895294,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d4c71742-1d58-4691-8ce8-030be8440a8c",
+      "name": "EDWARD GIDEON SCHOOL",
+      "latitude": 39.98437491988,
+      "longitude": -75.1807633815337,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b59e9464-6071-41d4-a5be-e41595e7c8dc",
+      "name": "EDWARD HESTON SCHOOL",
+      "latitude": 39.9778519995755,
+      "longitude": -75.22972700037,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2a9dfea2-ca24-40dd-aa85-768a68e7678d",
+      "name": "EDWARD T. STEEL SCHOOL",
+      "latitude": 40.0187950199431,
+      "longitude": -75.1568906403195,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "595b0f77-f5f7-4145-a21b-8ef7947bfb70",
+      "name": "EDWIN FORREST SCHOOL",
+      "latitude": 40.0345482370967,
+      "longitude": -75.0360212258082,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4662f3d1-6838-4bfc-95e3-9789a4952800",
+      "name": "EDWIN M. STANTON SCHOOL",
+      "latitude": 39.94043707159,
+      "longitude": -75.1708501862775,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "fbd84db0-6470-4123-81cc-0900274fc05f",
+      "name": "EL CENTRO DE ESTUDIANTES (BIG PICTURE)",
+      "latitude": 39.9952816003273,
+      "longitude": -75.1062727985528,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "28d09251-e2c3-4124-a17f-97e0732848ae",
+      "name": "ELEANOR C. EMLEN SCHOOL",
+      "latitude": 40.0541028792764,
+      "longitude": -75.1781402975544,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "0f622c1b-4fd5-47db-88ca-2ff45c1dbf56",
+      "name": "ELIZA B. KIRKBRIDE SCHOOL",
+      "latitude": 39.9300199997864,
+      "longitude": -75.1564659995204,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d2b0e167-1b8e-4609-b7dd-60e9094294bf",
+      "name": "ELLWOOD SCHOOL",
+      "latitude": 40.0550249498537,
+      "longitude": -75.1385380940791,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9ccba7e5-ec61-4673-b321-52feebf814e6",
+      "name": "ETHAN ALLEN SCHOOL",
+      "latitude": 40.029845387429,
+      "longitude": -75.0619167225252,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9f02ea1a-4595-4166-9be1-fd9e2fc70d20",
+      "name": "EXCEL ACADEMY CENTRAL",
+      "latitude": 40.0352618244044,
+      "longitude": -75.1180366982588,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "fd250487-c30d-4f1e-a03c-a3a9a42b325b",
+      "name": "EXCEL ACADEMY NORTH",
+      "latitude": 39.9781339996112,
+      "longitude": -75.1776579994501,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "440a8a67-d848-43bd-ad02-f5039bc1f353",
+      "name": "EXCEL ACADEMY SOUTH",
+      "latitude": 40.0263592872659,
+      "longitude": -75.102927613713,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4985bd41-fe27-4d37-85d8-a4b55caf284b",
+      "name": "EXCEL MIDDLE YEARS ACADEMY",
+      "latitude": 39.9694921357831,
+      "longitude": -75.2105796338327,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b50b6f6b-7835-4a03-8c28-bfa4c3fccdcb",
+      "name": "F. AMEDEE BREGY SCHOOL",
+      "latitude": 39.9145523452285,
+      "longitude": -75.1767050838534,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "299f7eb6-77db-40ca-82d1-775c107f2140",
+      "name": "FANNY JACKSON COPPIN SCHOOL",
+      "latitude": 39.9346230003901,
+      "longitude": -75.1634809995532,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f2f295de-8fb5-493f-95de-cd8f9cc3c03a",
+      "name": "FELTONVILLE INTERMEDIATE SCHOOL",
+      "latitude": 40.0203400203249,
+      "longitude": -75.1210256402893,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7c75ae5b-4b9c-47e4-8706-276523387297",
+      "name": "FELTONVILLE SCHOOL OF ARTS AND SCIENCES",
+      "latitude": 40.0193361685736,
+      "longitude": -75.1216704087118,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f02acb5b-2c9e-418f-94c4-780d82e750d1",
+      "name": "FITLER ACADEMICS PLUS SCHOOL",
+      "latitude": 40.026100520364,
+      "longitude": -75.1663373296687,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b27ea145-da29-4477-b2c8-701e36ba331e",
+      "name": "FOX CHASE FARMS",
+      "latitude": 40.088142803028,
+      "longitude": -75.0748441409285,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b3f5d0ed-4d0c-4db7-be3c-07888a486968",
+      "name": "FOX CHASE SCHOOL",
+      "latitude": 40.0748566048441,
+      "longitude": -75.0807943215056,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "69d5c91c-7fdd-4bc2-b84a-a14f3d70ea8e",
+      "name": "FRANCES E. WILLARD SCHOOL",
+      "latitude": 39.993351470515,
+      "longitude": -75.1162218020759,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c153d488-8bf2-4eab-9895-36076f797f8b",
+      "name": "FRANCIS HOPKINSON SCHOOL",
+      "latitude": 40.0084131233398,
+      "longitude": -75.1022568901264,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "5383e345-e845-4e72-a8c9-09ec5242ab68",
+      "name": "FRANCIS S. KEY SCHOOL",
+      "latitude": 39.9208831797287,
+      "longitude": -75.1605097359252,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "ca9687d6-3665-465a-b158-c15767ec1dd4",
+      "name": "FRANKFORD HIGH SCHOOL",
+      "latitude": 40.0216292635812,
+      "longitude": -75.085153299292,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f1f2b225-0bb5-45b5-a699-753fa808a894",
+      "name": "FRANKLIN LEARNING CENTER",
+      "latitude": 39.9650489996572,
+      "longitude": -75.1627529996906,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "177742af-b755-4904-8ebf-0c091c59415f",
+      "name": "FRANKLIN S. EDMONDS SCHOOL",
+      "latitude": 40.0729612572331,
+      "longitude": -75.1709998691682,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "cffa5551-c359-4a9d-bd78-73b88b2913c3",
+      "name": "FURNESS HIGH SCHOOL",
+      "latitude": 39.9237619995179,
+      "longitude": -75.1505849997142,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f7b3c3b6-aab6-4cb7-9773-7574e82274bd",
+      "name": "GATEWAY TO COLLEGE - COMMUNITY COLLEGE OF PHILADELPHIA",
+      "latitude": 39.9628357147828,
+      "longitude": -75.1666280688128,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "0a6fa2bb-e3a9-4608-ba2c-f6bcfdb17295",
+      "name": "GENERAL GEORGE A. MCCALL SCHOOL",
+      "latitude": 39.9445981325468,
+      "longitude": -75.152366532041,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "1fcde18a-da96-49c3-be03-83d399da6b01",
+      "name": "GENERAL GEORGE G. MEADE SCHOOL",
+      "latitude": 39.9785869996672,
+      "longitude": -75.1647179997526,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "0183aa0f-6061-4578-8da7-d841ca9f26f2",
+      "name": "GENERAL LOUIS WAGNER SCHOOL",
+      "latitude": 40.0517474803904,
+      "longitude": -75.1476796206116,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7418f1f6-8e51-418d-92c8-92b6b0e7ac4e",
+      "name": "GENERAL PHILIP KEARNY SCHOOL",
+      "latitude": 39.9638575296874,
+      "longitude": -75.1481293493631,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "bdc0da5d-306c-41c0-b7ac-6fed9812c734",
+      "name": "GEORGE W. CHILDS SCHOOL",
+      "latitude": 39.9346369997854,
+      "longitude": -75.1704930003667,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e7f27873-cb62-4969-bd54-b7f34a6af775",
+      "name": "GEORGE W. NEBINGER SCHOOL",
+      "latitude": 39.9366940002475,
+      "longitude": -75.1538300001114,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "5ea17ca9-6a4a-4989-97a1-086d3a5c7ec9",
+      "name": "GEORGE W. SHARSWOOD SCHOOL",
+      "latitude": 39.9188677524905,
+      "longitude": -75.1508410271532,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7c8f4334-cdc1-420b-8de7-569a20ba9dff",
+      "name": "GEORGE WASHINGTON HIGH SCHOOL",
+      "latitude": 40.1061889021234,
+      "longitude": -75.0264438820433,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b5de6d29-af33-4322-9820-4ffd33b2cbc5",
+      "name": "GILBERT SPRUANCE SCHOOL",
+      "latitude": 40.0374412405456,
+      "longitude": -75.0728007092635,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "62354345-3918-458f-968a-450ca5765075",
+      "name": "GIRARD ACADEMIC MUSIC PROGRAM",
+      "latitude": 39.9218315761598,
+      "longitude": -75.1829564114473,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9a45a52c-83a3-4dd0-b026-42018f57fe1f",
+      "name": "GLORIA CASAREZ ELEMENTARY SCHOOL",
+      "latitude": 39.9995819317837,
+      "longitude": -75.1142247624076,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9da8c936-8ccb-4483-8be5-7024ae428d22",
+      "name": "GROVER WASHINGTON, JR. SCHOOL",
+      "latitude": 40.0354790003559,
+      "longitude": -75.1179690005233,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2ed1db41-a15c-4a4f-8917-cd2ca070d9db",
+      "name": "GUION S BLUFORD ELEMENTARY SCHOOL",
+      "latitude": 39.9737390002601,
+      "longitude": -75.2360200003693,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b643aab6-600d-4de5-ae5c-88f6d7b40820",
+      "name": "HAMILTON DISSTON SCHOOL",
+      "latitude": 40.0283386186039,
+      "longitude": -75.0467403313706,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9e96c290-3339-4612-91a7-b424dc37bc51",
+      "name": "HENRY A. BROWN SCHOOL",
+      "latitude": 39.9866007655954,
+      "longitude": -75.1273528886016,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "cc98f633-f230-4c95-806e-27b77ff4f2fc",
+      "name": "HENRY C. LEA SCHOOL",
+      "latitude": 39.9545149995956,
+      "longitude": -75.2163470005439,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "55db711e-1469-499e-852c-eb325fc541fc",
+      "name": "HENRY H. HOUSTON SCHOOL",
+      "latitude": 40.0591252651313,
+      "longitude": -75.194819995356,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "57df24f9-7617-495f-880f-621963f70605",
+      "name": "HENRY W. LAWTON SCHOOL",
+      "latitude": 40.0206480001596,
+      "longitude": -75.0589760002628,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "af793013-9a0c-4463-a784-1e67d74acbca",
+      "name": "HIGH SCHOOL FOR CREATIVE AND PERFORMING ARTS SCHOOL",
+      "latitude": 39.9394199201992,
+      "longitude": -75.1654837502338,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4289cbda-b683-41ea-a261-3490447cc565",
+      "name": "HIGH SCHOOL OF THE FUTURE",
+      "latitude": 39.9752547638908,
+      "longitude": -75.2036036988725,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c5b70068-886e-4964-b197-fcc9a50c4df8",
+      "name": "HILL-FREEDMAN WORLD ACADEMY",
+      "latitude": 40.071214298362,
+      "longitude": -75.1751743756385,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b2ecef11-c3dd-486f-b6c2-f13bc5f3b06a",
+      "name": "HONORABLE LUIS MUNOZ-MARIN SCHOOL",
+      "latitude": 40.0011598845783,
+      "longitude": -75.1355523403438,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f115a2c1-c100-466b-b4be-390634a4b398",
+      "name": "HORATIO B. HACKETT SCHOOL",
+      "latitude": 39.9811400508718,
+      "longitude": -75.1268052651981,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "341b6330-ae09-4e9d-a2a4-3f3a3ab9c92d",
+      "name": "ISAAC A. SHEPPARD SCHOOL",
+      "latitude": 39.9936510000805,
+      "longitude": -75.1316299998968,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "6816dc47-6002-40a6-9876-bb1205cdcf81",
+      "name": "J. HAMPTON MOORE SCHOOL",
+      "latitude": 40.0491350004486,
+      "longitude": -75.0769120004206,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "59e0d9cf-10cc-42fb-a655-421b56d3e8cb",
+      "name": "JAMES DOBSON SCHOOL",
+      "latitude": 40.0314162762326,
+      "longitude": -75.2305457201817,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9d862856-a252-482f-9e21-8c0e93505733",
+      "name": "JAMES G. BLAINE SCHOOL",
+      "latitude": 39.9853002642558,
+      "longitude": -75.1831230017859,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c2efbe90-6add-4e20-bfaa-36cd2aae59d6",
+      "name": "JAMES J. SULLIVAN SCHOOL",
+      "latitude": 40.015961998383,
+      "longitude": -75.0669073551768,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "57ce7e02-6cfc-4949-870c-2a3b2231a4f6",
+      "name": "JAMES LOGAN SCHOOL",
+      "latitude": 40.0308530602314,
+      "longitude": -75.1520599505873,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "01add960-924e-48c1-a81b-c0a80adfe0f7",
+      "name": "JAMES R. LOWELL SCHOOL",
+      "latitude": 40.0404986265546,
+      "longitude": -75.1288900618717,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "efff92b9-f8b0-46c8-a731-cf9f65f1e5df",
+      "name": "JAMES R. LUDLOW SCHOOL",
+      "latitude": 39.9725784370524,
+      "longitude": -75.1458741020407,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "046be6c7-65ee-4d8e-b2a5-3662322777f0",
+      "name": "JAMES RHOADS SCHOOL",
+      "latitude": 39.967339000173,
+      "longitude": -75.2200629999175,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b9f82cf5-deeb-4c42-a874-c3c95753b3d6",
+      "name": "JAY COOKE SCHOOL",
+      "latitude": 40.0255260001875,
+      "longitude": -75.1460740001465,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c1ee10a7-8d57-4aee-a5b3-fd27c9d177e3",
+      "name": "JENKS ACADEMY FOR ARTS AND SCIENCES",
+      "latitude": 40.0747980046461,
+      "longitude": -75.2033682853641,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c74f11f8-6432-4984-b10d-902e7c19a339",
+      "name": "JOHN B STETSON MIDDLE SCHOOL",
+      "latitude": 39.9987298917836,
+      "longitude": -75.1256444420555,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f8552f4c-8a0b-4ba4-8bb9-e07e61dc57a4",
+      "name": "JOHN B STETSON MIDDLE SCHOOL CONTINUATION ACADEMY",
+      "latitude": 39.9987298917836,
+      "longitude": -75.1256444420555,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "8d235d14-44ed-4fdf-9b8f-528636c2ebfe",
+      "name": "JOHN B. KELLY SCHOOL",
+      "latitude": 40.0251082134133,
+      "longitude": -75.1724214935498,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "cd62f764-8315-4df7-b313-bfe5a6d1fe62",
+      "name": "JOHN BARRY SCHOOL",
+      "latitude": 39.9643749397617,
+      "longitude": -75.2386037605873,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "a9671b40-c10a-4eff-a3e6-f4d44f07ddf1",
+      "name": "JOHN BARTRAM HIGH SCHOOL",
+      "latitude": 39.9216831254994,
+      "longitude": -75.2338615779729,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "8c4f4851-83d9-44fd-a5b5-5c25e7aea836",
+      "name": "JOHN F. HARTRANFT SCHOOL",
+      "latitude": 39.9892456400739,
+      "longitude": -75.1449778336078,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c0d205b3-dc00-4c42-8f8f-e044cf8f8faf",
+      "name": "JOHN F. MCCLOSKEY SCHOOL",
+      "latitude": 40.0814117201095,
+      "longitude": -75.1747000232622,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "928fe534-1b5b-4638-80e7-b1611764312f",
+      "name": "JOHN H. TAGGART SCHOOL",
+      "latitude": 39.917126759721,
+      "longitude": -75.1548177713478,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "21291d3a-9c9f-4876-9a5a-df80414b9d3e",
+      "name": "JOHN H. WEBSTER SCHOOL",
+      "latitude": 39.9961930431299,
+      "longitude": -75.105501848456,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "70fe74ca-1a74-41c7-b723-707802679066",
+      "name": "JOHN HANCOCK DEMONSTRATION MIDDLE SCHOOL- LABRUM CAMPUS",
+      "latitude": 40.0807023824213,
+      "longitude": -74.9878482048175,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "6364065e-9e4a-4a0b-99ce-972f1bfa1ac4",
+      "name": "JOHN HANCOCK DEMONSTRATION SCHOOL",
+      "latitude": 40.0673722988134,
+      "longitude": -74.9891928924951,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "3a33d021-d79a-4969-ae76-ff2510e0e0b9",
+      "name": "JOHN M. PATTERSON SCHOOL",
+      "latitude": 39.9160950003144,
+      "longitude": -75.2367619993278,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7efa5d74-c877-479b-a26d-76975cf5b58e",
+      "name": "JOHN MARSHALL SCHOOL",
+      "latitude": 40.0146703147194,
+      "longitude": -75.0874911598763,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "1ee7a334-fb22-4591-8db9-0a30451afb94",
+      "name": "JOHN MOFFET SCHOOL",
+      "latitude": 39.9747321049644,
+      "longitude": -75.1359125504147,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "05baf162-97d4-497c-a338-3297aef57d3e",
+      "name": "JOHN WELSH SCHOOL",
+      "latitude": 39.9865005115558,
+      "longitude": -75.1393219482426,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "20768887-bfa7-4faa-ba5c-6dad3dc09472",
+      "name": "JOSEPH GREENBERG SCHOOL",
+      "latitude": 40.095733370403,
+      "longitude": -75.0576232526914,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "0af6c744-1700-4824-9f69-e46c9502e736",
+      "name": "JOSEPH H. BROWN SCHOOL",
+      "latitude": 40.0434625873175,
+      "longitude": -75.0246252015964,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "ebf8dbe7-ae69-4a60-b79a-d26c997e6234",
+      "name": "JOSEPH PENNELL SCHOOL",
+      "latitude": 40.0433940035014,
+      "longitude": -75.1507814774704,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d403ef6f-2d75-4257-9092-4fd96976b8c0",
+      "name": "JOSEPH W. CATHARINE SCHOOL",
+      "latitude": 39.927435000246,
+      "longitude": -75.2399109995978,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "25097cf2-ac75-4a27-8c25-22437bd1a336",
+      "name": "JULES E. MASTBAUM AREA VOCATIONAL TECHNICAL HIGH SCHOOL",
+      "latitude": 39.9924470150844,
+      "longitude": -75.1120827629408,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "ee7fd4b2-6537-4749-914c-62d82b8aaf60",
+      "name": "JULIA DE BURGOS SCHOOL",
+      "latitude": 39.9927516402774,
+      "longitude": -75.1386274300872,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "1573ac40-0cdf-4286-8ab6-9e4e1fb57276",
+      "name": "JULIA R. MASTERMAN SCHOOL",
+      "latitude": 39.9634508998865,
+      "longitude": -75.165732782732,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "aa70fab5-0073-4a65-822b-b4ee5c06c52d",
+      "name": "JULIA W. HOWE SCHOOL",
+      "latitude": 40.0413185655449,
+      "longitude": -75.1422093713412,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d37e4cf3-5e6b-4753-b071-66eb8da51f0c",
+      "name": "JUNIATA PARK ACADEMY",
+      "latitude": 40.0123816973542,
+      "longitude": -75.1111912204608,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "41ce742f-9328-47d1-8058-14bbffdefd29",
+      "name": "KENDERTON ELEMENTARY SCHOOL",
+      "latitude": 40.005112619077,
+      "longitude": -75.1540634698108,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9ceb4749-d904-4ff5-9f30-a8534c7513bc",
+      "name": "KENNEDY C. CROSSAN SCHOOL",
+      "latitude": 40.0621902887023,
+      "longitude": -75.0813314616159,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "072b9fac-6fd4-405b-8286-8a48165a0539",
+      "name": "KENSINGTON HEALTH SCIENCES ACADEMY",
+      "latitude": 39.9847326185923,
+      "longitude": -75.1285104225718,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "90f892a8-e76e-4f46-b72d-eb3bd2f8593a",
+      "name": "KENSINGTON HIGH SCHOOL",
+      "latitude": 39.9844316050371,
+      "longitude": -75.1263690837556,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d8082344-ac8d-4041-a73a-91e03a4cbda0",
+      "name": "KENSINGTON HIGH SCHOOL FOR CREATIVE AND PERFORMING ARTS",
+      "latitude": 39.9773057133073,
+      "longitude": -75.1334062072035,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b13915e8-88cf-4ff3-b42b-340dec193ce0",
+      "name": "LANKENAU HIGH SCHOOL",
+      "latitude": 40.0623079436667,
+      "longitude": -75.2527465374053,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4f4fa555-6ec3-45d6-a266-abf71f51c70e",
+      "name": "LAURA H. CARNELL SCHOOL",
+      "latitude": 40.0389569998864,
+      "longitude": -75.0841420000545,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4f4f0426-3b66-413b-95f5-b9e001c9811c",
+      "name": "LAURA W. WARING SCHOOL",
+      "latitude": 39.964900259644,
+      "longitude": -75.1676263866839,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f553b4a3-1c1f-4e3c-ab02-a9e82a25fc20",
+      "name": "LEWIS C. CASSIDY ACADEMICS PLUS SCHOOL",
+      "latitude": 39.9752057642657,
+      "longitude": -75.2507673243203,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e59f8520-7c7f-4f2b-8c90-1ebfe7f5443f",
+      "name": "LEWIS ELKIN SCHOOL",
+      "latitude": 39.9969928615849,
+      "longitude": -75.1209123807794,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7638a420-174c-45db-94f7-057bdafc6e42",
+      "name": "LOUIS H. FARRELL SCHOOL",
+      "latitude": 40.0664861382927,
+      "longitude": -75.0523379839886,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "cc233917-d1f0-4404-a5fb-c6f1fc9f88cb",
+      "name": "MARIAN ANDERSON NEIGHBORHOOD ACADEMY",
+      "latitude": 39.9418644651471,
+      "longitude": -75.1758986256176,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "ec50073b-227e-4cd8-b3d6-27b0e13277e5",
+      "name": "MARTHA WASHINGTON SCHOOL",
+      "latitude": 39.9662168226181,
+      "longitude": -75.2112653918662,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d0f9195e-511c-4b3f-b43e-86bc75c242fc",
+      "name": "MARTIN LUTHER KING HIGH SCHOOL",
+      "latitude": 40.0564620249605,
+      "longitude": -75.1616778553636,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "425ed6b6-990a-4709-82b0-77b73db1fe99",
+      "name": "MARY M. BETHUNE SCHOOL",
+      "latitude": 40.0036406776715,
+      "longitude": -75.1481843568952,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4e24158d-b891-43ce-848a-6046ddca351f",
+      "name": "MAYFAIR SCHOOL",
+      "latitude": 40.0393418782801,
+      "longitude": -75.0519203814907,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "504fd221-c17a-4fc9-9603-e22d432d2960",
+      "name": "MIDDLE YEARS ALTERNATIVE SCHOOL",
+      "latitude": 39.9644359482415,
+      "longitude": -75.2158147934414,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e75672af-5ba7-4dad-bc4c-89d01686bb8f",
+      "name": "MORTON MCMICHAEL SCHOOL",
+      "latitude": 39.9665496328013,
+      "longitude": -75.1947652507936,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "178c2d54-7dee-4e26-9223-973f3041a04a",
+      "name": "MOTIVATION HIGH SCHOOL",
+      "latitude": 39.9445319905671,
+      "longitude": -75.2418442201685,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2b805246-50db-44b2-9b00-314334541270",
+      "name": "MURRELL DOBBINS CAREER AND TECHNICAL HIGH SCHOOL",
+      "latitude": 39.9951425235826,
+      "longitude": -75.1668959217613,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "cdb0961e-380f-432d-88c7-160a75bcb77f",
+      "name": "NORTHEAST COMMUNITY PROPEL ACADEMY",
+      "latitude": 40.0435501586461,
+      "longitude": -75.0399878833954,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "a2b780cf-59a9-49a7-858c-c4e6b270aa57",
+      "name": "NORTHEAST HIGH SCHOOL",
+      "latitude": 40.0558477758173,
+      "longitude": -75.0708026216273,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "cad08f54-c46c-4c27-9675-73d7223d7ebb",
+      "name": "NORTHEAST HIGH SCHOOL EOP",
+      "latitude": 40.0558769929072,
+      "longitude": -75.0710778672641,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d3d47bb4-4e32-4120-84d4-38ea7964d0a0",
+      "name": "OIC CADI",
+      "latitude": 39.9583620607105,
+      "longitude": -75.1450336837808,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "318119ef-e28a-4178-b0ae-8a895dadc48f",
+      "name": "OLNEY HIGH SCHOOL",
+      "latitude": 40.028771999608,
+      "longitude": -75.1238079996346,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e31ff6aa-434e-4a8b-914a-7a88ad475ac2",
+      "name": "OLNEY HIGH SCHOOL CONTINUATION ACADEMY",
+      "latitude": 40.028771999608,
+      "longitude": -75.1238079996346,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c9d014e3-3552-4436-9413-a036486a5fe3",
+      "name": "OLNEY SCHOOL",
+      "latitude": 40.0311012601713,
+      "longitude": -75.1208726339683,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "baae223b-4470-4fb3-a420-8e41d8fbf0a5",
+      "name": "ONE BRIGHT RAY -  MANSION",
+      "latitude": 39.9901626275161,
+      "longitude": -75.1840666905311,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c408ea39-d31a-42b0-ab26-2658d5788654",
+      "name": "ONE BRIGHT RAY -  MANSION EVENING",
+      "latitude": 39.9901588960822,
+      "longitude": -75.1839839121761,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f8564dad-0f79-434f-823f-6814ec88dd1b",
+      "name": "ONE BRIGHT RAY - ELMWOOD CAMPUS",
+      "latitude": 39.9225159098781,
+      "longitude": -75.2290849297002,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "1d8b1f33-4690-4699-8084-922a7603d15e",
+      "name": "ONE BRIGHT RAY - FAIRHILL CAMPUS",
+      "latitude": 39.9941802907534,
+      "longitude": -75.1380387298821,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "ded0d1ed-fa69-4a26-8898-19c955510410",
+      "name": "ONE BRIGHT RAY - SIMPSON CAMPUS",
+      "latitude": 40.0052800004294,
+      "longitude": -75.10560096025,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "70b2ad84-2995-41bb-80ce-dfdd2164a033",
+      "name": "ONE BRIGHT RAY - SIMPSON EVENING",
+      "latitude": 40.0052800004294,
+      "longitude": -75.10560096025,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f78d4d33-6bef-4751-a095-c5c4f25f687e",
+      "name": "OVERBROOK EDUCATIONAL CENTER",
+      "latitude": 39.9741295737773,
+      "longitude": -75.254482769187,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "08115889-94df-437b-bffa-5e909daf096a",
+      "name": "OVERBROOK ELEMENTARY SCHOOL",
+      "latitude": 39.9819822023219,
+      "longitude": -75.2456141086698,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "542e53ed-bca8-43da-8cae-54f97c408461",
+      "name": "OVERBROOK HIGH SCHOOL",
+      "latitude": 39.9810280001367,
+      "longitude": -75.2385560002224,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "66573d2c-41d6-43de-9d61-c59e9cd29982",
+      "name": "PARKWAY CENTER CITY MIDDLE COLLEGE HIGH SCHOOL",
+      "latitude": 39.9630050104016,
+      "longitude": -75.1592864998634,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c6bb04b5-92b0-4d0b-950d-86a48f0f1843",
+      "name": "PARKWAY NORTHWEST HIGH SCHOOL",
+      "latitude": 40.0564530955096,
+      "longitude": -75.1651703669058,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "a8b1d06c-a951-4220-a483-786d858e5473",
+      "name": "PARKWAY WEST HIGH SCHOOL",
+      "latitude": 39.9646026424632,
+      "longitude": -75.2158085547254,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "82ff9905-d24d-4d92-aabd-74fa610cdddd",
+      "name": "PAUL L. DUNBAR SCHOOL",
+      "latitude": 39.9792000131763,
+      "longitude": -75.1541780919364,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "59c96805-8182-4208-9628-05f299ba3e53",
+      "name": "PAUL ROBESON HIGH SCHOOL FOR HUMAN SERVICES",
+      "latitude": 39.956971917992,
+      "longitude": -75.2055368826742,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "627d9b01-48b9-4b52-842d-eb74961b1a00",
+      "name": "PENN TREATY HIGH SCHOOL",
+      "latitude": 39.9727083207381,
+      "longitude": -75.1271550438141,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "bbc88ba8-0c23-4c0c-abda-ddf4d8a829de",
+      "name": "PENNYPACK HOUSE SCHOOL",
+      "latitude": 40.0309322857549,
+      "longitude": -75.0202684785261,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2294c443-27cd-4f53-bfdd-7c4e2fa55467",
+      "name": "PENROSE SCHOOL",
+      "latitude": 39.9078123231605,
+      "longitude": -75.2476230902229,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e648c881-177f-4df1-a910-722364fc5382",
+      "name": "PHILADELPHIA CONTINUATION ACADEMY",
+      "latitude": 40.0284859996728,
+      "longitude": -75.1238727207174,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e9155e98-056a-43f9-9db9-9b794810bcaf",
+      "name": "PHILADELPHIA HIGH SCHOOL FOR GIRLS",
+      "latitude": 40.0387049134426,
+      "longitude": -75.1452251593178,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "29f9c2d9-de1b-4ade-92da-63709c2f2a4a",
+      "name": "PHILADELPHIA JUVENILE JUSTICE SERVICES CENTER SCHOOL",
+      "latitude": 39.9613656502929,
+      "longitude": -75.2157262402775,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "5322ddfd-3734-4b0e-a174-bf1e3aae5d51",
+      "name": "PHILADELPHIA LEARNING ACADEMY NORTH",
+      "latitude": 40.0150452861232,
+      "longitude": -75.1262885746348,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b509f037-9068-4108-975c-5f03c635f7ab",
+      "name": "PHILADELPHIA LEARNING ACADEMY WEST",
+      "latitude": 39.9694577494363,
+      "longitude": -75.2104489222594,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "bc2a4580-fa30-414f-9b57-bc5d7635c196",
+      "name": "PHILADELPHIA MILITARY ACADEMY",
+      "latitude": 39.9854080807839,
+      "longitude": -75.1544359419315,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "bf1edee8-eebb-4cd8-97e8-e44be61e274e",
+      "name": "PHILADELPHIA VIRTUAL ACADEMY",
+      "latitude": 39.961021589463,
+      "longitude": -75.1626440495439,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "a8acd90d-fec8-4056-81d0-59e5ae1d120d",
+      "name": "POTTER-THOMAS SCHOOL",
+      "latitude": 39.9971779155139,
+      "longitude": -75.1407362876249,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "391b5299-562e-4921-a0b7-95f85ac51649",
+      "name": "PRINCE HALL SCHOOL",
+      "latitude": 40.0477074202454,
+      "longitude": -75.1495605206067,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "0a46f3ba-da65-4155-875d-8e17fdfec3f7",
+      "name": "RE-ENGAGEMENT CENTER",
+      "latitude": 39.9609119305578,
+      "longitude": -75.1626529723063,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "a91fbe61-9eeb-403d-a40c-1254a20cdc59",
+      "name": "RHAWNHURST SCHOOL",
+      "latitude": 40.0587010848987,
+      "longitude": -75.0580916436749,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "50e9f373-0a78-40d4-8ec5-3666908eb35b",
+      "name": "RICHARD R. WRIGHT SCHOOL",
+      "latitude": 39.9902712210442,
+      "longitude": -75.1774965226624,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "caa30c7a-a4f6-4001-b05c-eee309ebdb57",
+      "name": "RICHMOND SCHOOL",
+      "latitude": 39.9834960003057,
+      "longitude": -75.1104909993929,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "50269a37-cc51-41ac-8829-89b31182a7cb",
+      "name": "ROBERT B. POLLOCK SCHOOL",
+      "latitude": 40.0597631391261,
+      "longitude": -75.0275948707761,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2b131437-63e2-4a7b-9846-a5a64697895c",
+      "name": "ROBERT E. LAMBERTON SCHOOL",
+      "latitude": 39.9755813035415,
+      "longitude": -75.2664972086715,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "01f01070-c46e-4259-b5ff-f0b686cef209",
+      "name": "ROBERT MORRIS SCHOOL",
+      "latitude": 39.9754389995936,
+      "longitude": -75.1786600001118,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "50ec6e40-71c8-42af-bb9c-195b6695d66b",
+      "name": "ROBERTO CLEMENTE SCHOOL",
+      "latitude": 40.0068189997667,
+      "longitude": -75.1297359997178,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "fadae55d-852b-409a-b56b-72f4cbff0a94",
+      "name": "ROXBOROUGH HIGH SCHOOL",
+      "latitude": 40.0376206486884,
+      "longitude": -75.2228210518555,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "99852e6a-6b36-49a2-956d-c4ab7f91071c",
+      "name": "RUDOLPH BLANKENBURG SCHOOL",
+      "latitude": 39.9726290989846,
+      "longitude": -75.2151434499055,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "012365b3-c913-4da6-8f5b-84753a474111",
+      "name": "RUSSELL H. CONWELL SCHOOL",
+      "latitude": 39.9944190479345,
+      "longitude": -75.1148200223767,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "5725207e-cd5d-407d-8a17-47b2cc9b2342",
+      "name": "S. WEIR MITCHELL SCHOOL",
+      "latitude": 39.9368217761112,
+      "longitude": -75.2236791685296,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "182167be-01c6-4075-b9ad-49b03e473c66",
+      "name": "SADIE ALEXANDER SCHOOL",
+      "latitude": 39.9530989999409,
+      "longitude": -75.2081869999629,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e948a29f-b17d-474f-92e8-5e9f809e34e6",
+      "name": "SAMUEL FELS HIGH SCHOOL",
+      "latitude": 40.0362212632326,
+      "longitude": -75.0924110678754,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "c635bb53-10ae-4f39-b16f-b50dfc203bb8",
+      "name": "SAMUEL GOMPERS SCHOOL",
+      "latitude": 39.9925549087404,
+      "longitude": -75.2381330700406,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "133f15c8-ec27-44b0-ac20-e6e358729698",
+      "name": "SAMUEL PENNYPACKER SCHOOL",
+      "latitude": 40.0652550495601,
+      "longitude": -75.1589464905624,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7fb1815c-b081-4256-bc0b-b1b977917b00",
+      "name": "SAMUEL POWEL SCHOOL",
+      "latitude": 39.9579153255438,
+      "longitude": -75.1946950301183,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "67cb2d77-9a4d-4047-8acb-bbbf77ec498f",
+      "name": "SCIENCE LEADERSHIP ACADEMY",
+      "latitude": 39.9635754343486,
+      "longitude": -75.1619732404512,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "56b54d89-de30-4d7f-a0be-288c562e73c8",
+      "name": "SCIENCE LEADERSHIP ACADEMY MIDDLE SCHOOL",
+      "latitude": 39.9577416762553,
+      "longitude": -75.1946396129942,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "6ea0d311-79f1-4491-889d-477ba4d46d7d",
+      "name": "SHAWMONT SCHOOL",
+      "latitude": 40.0514780000812,
+      "longitude": -75.2385430006572,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "77811866-cf4b-4aed-8b47-e96332ab991f",
+      "name": "SOLOMON SOLIS-COHEN SCHOOL",
+      "latitude": 40.0448733610636,
+      "longitude": -75.0646216915276,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "0979d1fe-f86c-45f8-b13c-d7228022f24f",
+      "name": "SOUTH PHILADELPHIA HIGH SCHOOL",
+      "latitude": 39.9238312871207,
+      "longitude": -75.1684329937949,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "46116302-6863-41b1-8672-3d202d5b7e88",
+      "name": "SOUTH PHILADELPHIA HIGH SCHOOL EOP",
+      "latitude": 39.923729452171,
+      "longitude": -75.1684471170391,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2ac26770-9d6d-4938-8797-98ac184ef61c",
+      "name": "SOUTHWARK SCHOOL",
+      "latitude": 39.9258947201294,
+      "longitude": -75.1602420630565,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "83c0fe8b-7b09-4eaf-ae39-369131893314",
+      "name": "SPRING GARDEN SCHOOL",
+      "latitude": 39.9651615496125,
+      "longitude": -75.1561404206783,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "521c95fb-df95-4e19-b4db-76ef1ae640ea",
+      "name": "STEPHEN DECATUR SCHOOL",
+      "latitude": 40.0957320763664,
+      "longitude": -74.9705695658241,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "99214840-10d6-4ce5-b759-fff8ed986ea5",
+      "name": "STEPHEN GIRARD SCHOOL",
+      "latitude": 39.9245565246392,
+      "longitude": -75.1768104600649,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2f6a778b-9cd0-4b8f-940d-8ea461794949",
+      "name": "STRAWBERRY MANSION HIGH SCHOOL",
+      "latitude": 39.9907437096304,
+      "longitude": -75.1840246403444,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f7c1f443-e16a-453b-8233-42083a098a54",
+      "name": "STUDENT TRANSITION CENTER",
+      "latitude": 39.961021589463,
+      "longitude": -75.1626440495439,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "eafaa50f-7a50-4230-b643-12957fe1faa0",
+      "name": "SWENSON ARTS AND TECHNOLOGY HIGH SCHOOL",
+      "latitude": 40.0921093000288,
+      "longitude": -75.0139886292903,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9385535a-f04f-4078-8b5d-05bf4d724fb7",
+      "name": "TANNER G. DUCKREY SCHOOL",
+      "latitude": 39.9853056434017,
+      "longitude": -75.1589535680948,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "85293cd8-d66b-461e-bfc2-177ed5362880",
+      "name": "THE ACADEMY OF CONTINUED EDUCATION SCHOOL",
+      "latitude": 39.961021589463,
+      "longitude": -75.1626440495439,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "69817e39-76c1-4d3a-b98e-d6c0db9a53da",
+      "name": "THE FORTIS PROGRAM",
+      "latitude": 39.9816688106088,
+      "longitude": -75.1189300524152,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9db4f8be-15c7-4470-ad98-da72b258917c",
+      "name": "THE LINC",
+      "latitude": 40.0068189997667,
+      "longitude": -75.1297359997178,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "329284b5-f035-41de-9774-0b398c322598",
+      "name": "THE SCIENCE LEADERSHIP ACADEMY AT BEEBER",
+      "latitude": 39.9862105842837,
+      "longitude": -75.2423345795802,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "f2a570b9-7f15-4b3c-8481-b3b51692064e",
+      "name": "THE U SCHOOL",
+      "latitude": 39.9819829997877,
+      "longitude": -75.1462560001963,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "9dafd6c5-97d5-4057-ada7-edf1726abeb0",
+      "name": "THE WORKSHOP SCHOOL",
+      "latitude": 39.9553058896276,
+      "longitude": -75.2185532904991,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "5e49748e-868a-424b-8c6f-8b27ff0c7510",
+      "name": "THEODORE ROOSEVELT SCHOOL",
+      "latitude": 40.0482382288608,
+      "longitude": -75.175057050507,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "5cc0b055-97b2-4499-854e-8940e6e32f81",
+      "name": "THOMAS A. EDISON HIGH SCHOOL",
+      "latitude": 40.0118545100119,
+      "longitude": -75.1294424968469,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e4edf2c6-2a52-4e0b-ba01-64c283fcc0ca",
+      "name": "THOMAS G. MORTON SCHOOL",
+      "latitude": 39.9236662281504,
+      "longitude": -75.2269040230094,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "36b391be-92f7-4046-9cfb-9b835ff59d27",
+      "name": "THOMAS HOLME SCHOOL",
+      "latitude": 40.0549887736766,
+      "longitude": -75.0091080508417,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "01025153-3f45-4bd8-a941-ce42b89cb39f",
+      "name": "THOMAS K. FINLETTER SCHOOL",
+      "latitude": 40.0436080000095,
+      "longitude": -75.1191760006802,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "75a8b210-6e62-4b31-8228-3ce0e1760109",
+      "name": "THOMAS M. PEIRCE SCHOOL",
+      "latitude": 39.9986220304899,
+      "longitude": -75.1683170543481,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "773e965e-98a6-4648-bb0c-1f3e73f5a88b",
+      "name": "THOMAS MIFFLIN SCHOOL",
+      "latitude": 40.0135299591428,
+      "longitude": -75.1916090253599,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "ba4da8ea-40cd-429e-b222-0e9ee8ba952c",
+      "name": "THURGOOD MARSHALL SCHOOL",
+      "latitude": 40.0301801617259,
+      "longitude": -75.1345624646199,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "90b750a6-a2e2-4c55-827b-676e922261fa",
+      "name": "VARE-WASHINGTON SCHOOL",
+      "latitude": 39.9339414927683,
+      "longitude": -75.1527722544854,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "916593a7-37a9-415e-8237-b1bf937ef9a2",
+      "name": "VAUX HIGH SCHOOL: A BIG PICTURE",
+      "latitude": 39.9763249996727,
+      "longitude": -75.1741859996767,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "1b51168e-33c3-4009-8b58-d860b62de90d",
+      "name": "WALTER B. SAUL HIGH SCHOOL",
+      "latitude": 40.0493725691184,
+      "longitude": -75.2215169826907,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "88c4df66-190d-4f5f-bbd6-398dabd46bd9",
+      "name": "WARREN G. HARDING SCHOOL",
+      "latitude": 40.0129169394876,
+      "longitude": -75.0745608096168,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4eb30400-7c5a-4fa5-b808-3a4d1e7686ce",
+      "name": "WATSON COMLY SCHOOL",
+      "latitude": 40.120964859453,
+      "longitude": -75.0091087996044,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "73cdc113-b158-4bb4-a0ec-dc477d900fbe",
+      "name": "WEST PHILADELPHIA HIGH SCHOOL",
+      "latitude": 39.9581100002233,
+      "longitude": -75.2196540004072,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "8905a08e-6432-4ca4-9bdf-6608b3ba17e6",
+      "name": "WIDENER MEMORIAL SCHOOL",
+      "latitude": 40.0367059998385,
+      "longitude": -75.1465980005368,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "85eea427-4b6f-486f-9c52-d1bd9010cae0",
+      "name": "WILLIAM C. BRYANT SCHOOL",
+      "latitude": 39.9527911813642,
+      "longitude": -75.2435629997548,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "32de0f8e-6e6c-4383-b931-8c9dc8bed04b",
+      "name": "WILLIAM C. LONGSTRETH SCHOOL",
+      "latitude": 39.9407043300914,
+      "longitude": -75.2324374017805,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "aa48c6a8-ef1b-470c-bfac-5e23fbfd5563",
+      "name": "WILLIAM CRAMP SCHOOL",
+      "latitude": 40.0026291206135,
+      "longitude": -75.1299362503674,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "120cc0a7-e5f1-4e8b-a595-cc0865b616cb",
+      "name": "WILLIAM D. KELLEY SCHOOL",
+      "latitude": 39.9803917298931,
+      "longitude": -75.1803268894624,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7e5da73b-281d-4d34-847f-fe24d653e84f",
+      "name": "WILLIAM DICK SCHOOL",
+      "latitude": 39.9867299995588,
+      "longitude": -75.1737870003521,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "e3407b4b-2998-4948-88f7-c1daa2f4bbed",
+      "name": "WILLIAM H. HUNTER SCHOOL",
+      "latitude": 39.9874083788568,
+      "longitude": -75.1321278870912,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "4330848c-a4a5-41d5-82ac-62a63313044f",
+      "name": "WILLIAM H. LOESCHE SCHOOL",
+      "latitude": 40.1140088382696,
+      "longitude": -75.0236378955366,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "0ef95ea5-f6af-4c79-8701-92298c456c55",
+      "name": "WILLIAM H. ZIEGLER SCHOOL",
+      "latitude": 40.030112192689,
+      "longitude": -75.0753711743273,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "7b63650f-840e-4f99-8bf8-5971db1c95b0",
+      "name": "WILLIAM L. SAYRE HIGH SCHOOL",
+      "latitude": 39.9575935399916,
+      "longitude": -75.2385940503104,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "be820c5d-e76c-476c-b5b1-ce78044bd960",
+      "name": "WILLIAM M. MEREDITH SCHOOL",
+      "latitude": 39.9396621938909,
+      "longitude": -75.1509983238488,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "b5e653d9-b8d6-4ad1-9b87-4886bb6ccf05",
+      "name": "WILLIAM MCKINLEY SCHOOL",
+      "latitude": 39.9830512778982,
+      "longitude": -75.1412486595634,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "bbe4091b-e0d7-4389-a1a7-a8a2fd91d6cb",
+      "name": "WILLIAM ROWEN SCHOOL",
+      "latitude": 40.0587498173738,
+      "longitude": -75.1485660747121,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "2f9ebedc-95c0-488c-9239-598919c6e1f6",
+      "name": "WILLIAM T. TILDEN SCHOOL",
+      "latitude": 39.9213914094744,
+      "longitude": -75.232358071053,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "d28c8094-6818-458e-86df-6f270eba2b53",
+      "name": "WILLIAM W. BODINE HIGH SCHOOL",
+      "latitude": 39.9680504922372,
+      "longitude": -75.1431779114975,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    },
+    {
+      "id": "61c30639-22ca-4c55-9f40-32abe612f0e4",
+      "name": "YES PHILLY",
+      "latitude": 39.9944187396555,
+      "longitude": -75.1540758838351,
+      "radius": 50.0,
+      "district": "PSD",
+      "version": 1,
+      "defaultCategory": "business"
+    }
+  ]
+}
