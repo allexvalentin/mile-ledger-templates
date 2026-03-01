@@ -12,7 +12,7 @@
     { "id": "809dda99-a68a-4b6a-8bb1-33733fe18b06", "name": "Musselmann",      "latitude": 40.1134, "longitude": -75.3232, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
     { "id": "52df5379-3e7f-47f3-a4d7-29638701c7bc", "name": "NAHS",            "latitude": 40.1470, "longitude": -75.3622, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
     { "id": "555b5270-d209-48c0-a965-7e4a15b5e3c0", "name": "Paul Fly",        "latitude": 40.1577, "longitude": -75.3598, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
-    { "id": "35063722-bd31-41cf-96b3-08304230579f", "name": "Roosevelt",       "latitude": 40.1246, "longitude": -75.3415, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" },
-    { "id": "a3ea5c04-e6d1-4411-b46c-734907676f17", "name": "Whitehall",       "latitude": 40.1441, "longitude": -75.3603, "radius": 50, "district": "NASD", "version": 1, "defaultCategory": "business" }
+    { "id": "35063722-bd31-41cf-96b3-08304230579f", "name": "Roosevelt",       "latitude": 40.1246, "longitude": -75.3415, "radius": 25, "district": "NASD", "version": 1, "defaultCategory": "business" },
+    { "id": "a3ea5c04-e6d1-4411-b46c-734907676f17", "name": "Whitehall",       "latitude": 40.1441, "longitude": -75.3603, "radius": 75, "district": "NASD", "version": 1, "defaultCategory": "business" }
   ]
 }
